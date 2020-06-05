@@ -2,7 +2,7 @@
 This is a design and implementation of a Folio Tracker - an application for tracking the value of stock portfolios with a GUI.
 
 ## Description
-The requireprogram supports the following features:
+The program supports the following features:
 - Manages multiple portfolios.
 - Create and delete portfolios.
 - See the positions (stock name, number of shares held, price per share, and value of the holding) in a portfolio.
